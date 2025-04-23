@@ -2,7 +2,7 @@
 
 A Flutter application that demonstrates platform-specific code integration using platform channels. This app retrieves the device's battery level from the native Android system and displays it in the Flutter UI.
 
-![Battery Level App Screenshot](assets/images/app_screenshot.png)
+![Battery Level App Screenshot](assets/demo.jpeg)
 
 ## Features
 
@@ -29,7 +29,7 @@ A Flutter application that demonstrates platform-specific code integration using
 1. Clone this repository:
 
    ```
-   git clone https://github.com/yourusername/batterylevel.git
+   git clone https://github.com/anasdevv/batterylevel.git
    ```
 
 2. Navigate to the project directory:
@@ -90,7 +90,7 @@ This app demonstrates the use of platform channels to communicate between Flutte
 3. The result is sent back to Flutter and displayed in the UI
 
 ```markdown
-[demo](assets/demo.jpeg)
+![alt text](https://github.com/anasdevv/smd2025-platform-channels/blob/main/demo.jpeg?raw=true)
 ```
 
 ## Resources
