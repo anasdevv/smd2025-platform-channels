@@ -1,0 +1,59 @@
+# Dart/Pub related
+.dart_tool/
+.packages
+.pub-cache/
+build/
+
+# iOS
+ios/Flutter/Flutter.framework
+ios/Flutter/Flutter.podspec
+ios/Flutter/Generated.xcconfig
+ios/Flutter/App.framework
+ios/Flutter/engine/
+ios/.symlinks/
+ios/Pods/
+ios/Runner.xcworkspace/
+ios/DerivedData/
+ios/.dart_tool/
+ios/.flutter-plugins
+ios/.flutter-plugins-dependencies
+
+# Android
+.android/
+*.iml
+.gradle/
+local.properties
+.idea/
+
+# Web
+web/.dart_tool/
+web/build/
+
+# Windows
+windows/.dart_tool/
+windows/build/
+
+# macOS
+macos/.dart_tool/
+macos/build/
+
+# Linux
+linux/.dart_tool/
+linux/build/
+
+# Others
+.flutter-plugins
+.flutter-plugins-dependencies
+.melos_tool/
+pubspec.lock # Optional, ignore only for libraries, not apps
+
+# VS Code
+.vscode/
+
+# IntelliJ
+.idea/
+
+# Generated files
+*.log
+*.tmp
+*.lock
